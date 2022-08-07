@@ -5,7 +5,6 @@
 - 👯 I’m looking to collaborate on music computing
 - 📫 How to reach me: ly1387@nyu.edu
 - 😄 Pronouns: he, him
-- ⚡ Fun fact: ...
 
 <!--
 **billyblu2000/billyblu2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
