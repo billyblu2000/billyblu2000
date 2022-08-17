@@ -1,6 +1,5 @@
-<div align="center">  
-  <img  src="https://github-readme-streak-stats.herokuapp.com?user=billyblu2000&theme=onedark&date_format=M%20j%5B%2C%20Y%5D" />
-</div>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=billyblu2000&theme=nord&hide_border=true)](https://git.io/streak-stats)
+
 ### Hi there 👋
 
 - 🔭 I’m currently working on symbolic music generation
@@ -8,18 +7,3 @@
 - 👯 I’m looking to collaborate on music computing
 - 📫 How to reach me: ly1387@nyu.edu
 - 😄 Pronouns: he, him
-
-<!--
-**billyblu2000/billyblu2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
